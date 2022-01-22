@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pemesanan Tiket</string>
+    <string-array name="daftar_kota">
+        <item>Semarang (SRG)</item>
+        <item>Surabaya (SUB)</item>
+        <item>Bali (DPS)</item>
+        <item>Jakarta (HLP)</item>
+    </string-array>
+</resources>
